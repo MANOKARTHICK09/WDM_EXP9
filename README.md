@@ -26,11 +26,14 @@ for this purpose.
 
 
 ### Output:
-<img width="1416" height="794" alt="Screenshot 2025-08-22 130136" src="https://github.com/user-attachments/assets/d1fc01b1-c464-4cbf-87d4-8e1e63243e7a" />
 
-<img width="1418" height="798" alt="Screenshot 2025-08-22 130156" src="https://github.com/user-attachments/assets/e361c753-ad54-4338-bc3e-a10007e9e56e" />
 
-<img width="1597" height="844" alt="Screenshot 2025-08-22 130214" src="https://github.com/user-attachments/assets/9e05cded-d96d-4111-87e4-1cf103d9f41b" />
+<img width="1416" height="794" alt="1mk" src="https://github.com/user-attachments/assets/d7d092cd-89ae-4213-959e-bf5fe04dba24" />
+
+<img width="1418" height="798" alt="2mk" src="https://github.com/user-attachments/assets/92a46f57-bd84-42a8-a435-c94f50c1a1b2" />
+
+<img width="1597" height="844" alt="3mk" src="https://github.com/user-attachments/assets/71833783-14ad-4fb5-90d4-66a670285336" />
+
 
 
 
